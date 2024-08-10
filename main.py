@@ -34,7 +34,7 @@ if __name__ == '__main__':
             'dim_orders_andhika',
             engine_dwh,
             schema = 'public',
-            if_exists = 'append',
+            if_exists = 'replace',
             index=False
         )
         print("service etl done!")
