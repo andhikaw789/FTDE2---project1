@@ -1,5 +1,5 @@
-Nama Kelompok : Number One
-Anggota :
+- Nama Kelompok : Number One
+- Anggota :
 1. Andhika Widyadwatmaja
 2. Radityo Fajar Pamungkas
 3. Prisqia Hanifa
